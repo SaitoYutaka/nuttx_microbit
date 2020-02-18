@@ -26,7 +26,7 @@ https://www.nxp.com/part/MKL26Z128VFM4#/
 
 [Document](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/kl-series-cortex-m0-plus/kinetis-kl2x-72-96-mhz-usb-ultra-low-power-microcontrollers-mcus-based-on-arm-cortex-m0-plus-core:KL2x?fpsp=1&tab=Documentation_Tab)
 
-boards\arm\kl\freedom-kl25z\README.txt
+https://github.com/apache/incubator-nuttx/blob/nuttx-8.2/boards/arm/kl/freedom-kl25z/README.txt#L100
 ```
 Serial Console
 ==============
