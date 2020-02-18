@@ -10,6 +10,12 @@ https://github.com/apache/incubator-nuttx-apps
 
 # Document
 https://github.com/apache/incubator-nuttx/blob/nuttx-8.2/Documentation/NuttxPortingGuide.html
+```
+2.5.4 Adding a New Board Configuration
+Okay, so you have created a new board configuration directory. Now, how do you hook this board into the configuration system so that you can select with make menuconfig?
+
+You will need modify the file boards/Kconfig. Let's look at the STM32F4-Discovery configuration in the Kconfig file and see how we would add a new board directory to the configuration. For this configuration let's say that you new board resides in the directory boards/myarch/mychip/myboard; It uses an MCU selected with CONFIG_ARCH_CHIP_MYMCU; and you want the board to be selected with CONFIG_ARCH_BOARD_MYBOARD. Then here is how you can clone the STM32F4-Discovery configuration in boards/Kconfig to support your new board configuration.
+```
 
 # UART Driver?
 https://tech.microbit.org/hardware/#interface
