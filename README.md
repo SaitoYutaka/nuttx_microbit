@@ -62,3 +62,8 @@ Serial Console
 
   Ground is available on J2 pin 14.  3.3V is available on J3 and J4.
 ```
+
+# memo
+
+https://acassis.wordpress.com/2013/04/02/compiling-nuttx-for-cortex-m0/
+
