@@ -4,6 +4,13 @@ Memos that how to porting nuttx on microbit
 # About Microbit
 https://tech.microbit.org/hardware/
 
+# Cortex-M0
+https://en.wikipedia.org/wiki/ARM_Cortex-M#Cortex-M0
+
+# What are the differences between Cortex-M0 and Cortex-M0+?
+https://community.cypress.com/docs/DOC-10652
+
+
 # Nuttx
 https://github.com/apache/incubator-nuttx
 https://github.com/apache/incubator-nuttx-apps
@@ -67,3 +74,5 @@ Serial Console
 
 https://acassis.wordpress.com/2013/04/02/compiling-nuttx-for-cortex-m0/
 https://github.com/apache/incubator-nuttx/tree/master/boards/arm/nuc1xx/nutiny-nuc120
+
+
