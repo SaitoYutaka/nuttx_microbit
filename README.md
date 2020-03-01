@@ -77,3 +77,5 @@ https://github.com/apache/incubator-nuttx/tree/master/boards/arm/nuc1xx/nutiny-n
 
 https://github.com/dwelch67/microbit
 
+http://bluetooth.tokyo/wp-content/uploads/2018/03/nRF51-VS-nRF52.jpg
+
